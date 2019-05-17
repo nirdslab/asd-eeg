@@ -1,0 +1,10 @@
+venv/
+.idea/
+.DS_Store
+__pycache__/
+
+out/csv/
+out/csv_old/
+out/png/
+out/png-avg/
+out/png-max/
