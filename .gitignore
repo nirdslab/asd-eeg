@@ -3,8 +3,6 @@ venv/
 .DS_Store
 __pycache__/
 
-out/csv/
-out/csv_old/
-out/png/
-out/png-avg/
-out/png-max/
+# Input data and generated data
+out/
+data/
